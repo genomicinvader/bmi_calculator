@@ -8,7 +8,7 @@
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-green)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![BMI Calculator Screenshot] [![Screenshot-2025-08-01-062210.png](https://i.postimg.cc/15y7SBjD/Screenshot-2025-08-01-062210.png)](https://postimg.cc/DmYPdrFz)
+[![Screenshot-2025-08-01-062210.png](https://i.postimg.cc/15y7SBjD/Screenshot-2025-08-01-062210.png)](https://postimg.cc/DmYPdrFz)
 
 
 ## About the Project
