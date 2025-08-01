@@ -57,14 +57,14 @@ def calculate_ideal_weight(height_m, weight_unit):
 
 
 
-#Installation
-###For End Users
+# Installation
+### For End Users
 1. Download the installer from Releases Section
 2. Run BMI_Calculator_Setup.exe
 3. Follow the installation wizard
 4. Launch from Start Menu or Desktop shortcut
 
-###For Developers
+### For Developers
 
 ```Bash
 # Clone the repository
@@ -78,16 +78,16 @@ python bmi_calculator.py
 ```
 
 
-#Technology Stack
+# Technology Stack
 1. Frontend: Tkinter (Python GUI)
 2. Packaging: PyInstaller
 3. Installer: Inno Setup
 4. Dependencies: Pillow (Icon generation)
 
-#Join the Development!
+# Join the Development!
 I invite software engineers worldwide to contribute to this project and help improve health technology for everyone. There are endless possibilities for enhancement:
 
-##Potential Improvements
+## Potential Improvements
 [![deepseek-mermaid-20250801-b32c8e.png](https://i.postimg.cc/sXzyR8G5/deepseek-mermaid-20250801-b32c8e.png)](https://postimg.cc/d75g25B0)
 
 graph TD
@@ -98,16 +98,16 @@ graph TD
     A --> F[Progress Tracking]
     A --> G[Nutrition Database Integration]
 
-##How to Contribute
+## How to Contribute
 1. Fork the repository
 2. Create your feature branch (git checkout -b feature/AmazingFeature)
 3. Commit your changes (git commit -m 'Add some AmazingFeature')
 4. Push to the branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
-###Let's build a healthier world together through technology! 🌍💻
+### Let's build a healthier world together through technology! 🌍💻
 
-##License
+## License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
