@@ -13,7 +13,7 @@
 
 ## About the Project
 
-**BMI Calculator App** is a comprehensive health application created in August 2023 that calculates your Body Mass Index (BMI), provides ideal weight recommendations, and offers personalized diet and exercise plans. This project combines health science with practical software engineering to help users maintain a healthy lifestyle.
+**BMI Calculator App** is a comprehensive health application created in August 1, 2025 that calculates your Body Mass Index (BMI), provides ideal weight recommendations, and offers personalized diet and exercise plans. This project combines health science with practical software engineering to help users maintain a healthy lifestyle.
 
 **Key Features:**
 - 🧮 BMI calculation with unit conversion (cm/inches, kg/lbs)
