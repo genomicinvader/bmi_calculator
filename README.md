@@ -111,5 +111,5 @@ graph TD
 Distributed under the MIT License. See LICENSE for more information.
 
 # Contact
-Genomic Invader - [@genomicinvader](https://github.com/genomicinvader) (br/)
+Genomic Invader - [@genomicinvader](https://github.com/genomicinvader) <br/>
 Project Link: https://github.com/genomicinvader/bmi_calculator
